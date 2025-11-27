@@ -1,7 +1,7 @@
 body{
-    color:antiquewhite;
-    background-color: aqua;
+    color:rgb(237, 14, 163);
+    background-color: rgb(246, 238, 12);
 }
 header{
-    border-bottom: ;
+    border-bottom: solid 2px;
 }
